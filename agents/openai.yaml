@@ -1,0 +1,4 @@
+interface:
+  display_name: "СЕО Серфер"
+  short_description: "SEO аудит и оптимизация по курсу Surfer"
+  default_prompt: "Используй $seo-surfer для SEO аудита сайта с доказательствами и приоритетами."
